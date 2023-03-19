@@ -48,7 +48,7 @@ Welcome to my page. I'm a front-end developper from France.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedsc&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedsc&layout=compact&theme=tokyonight)](https://github.com/zedsc/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zedsc&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zedsc&layout=compact&theme=tokyonight)](https://github.com/zedsc/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zedsc&theme=tokyonight&mode=weekly)](https://git.io/streak-stats)
 
